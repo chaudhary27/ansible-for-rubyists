@@ -6,7 +6,7 @@ Ansible is written in Python, but you can write modules in any language.  Here a
 Documentation
 =============
 
-If you would like to read more about ansible, visit [http://ansible.com/docs/](http://ansible.com/docs).
+If you would like to read more about ansible, visit [http://docs.ansible.com](http://docs.ansible.com).
 
 The docs will help you understand how to use Ansible better, and about it's data-driven configuration language, which
 is YAML based.
@@ -122,4 +122,3 @@ We do encourage you to write your own modules, put them on github, and share the
 care to write them in, and we are happy to link to lots of these on the "contrib" pages of the documentation.
 
 Thanks and have fun!
-
